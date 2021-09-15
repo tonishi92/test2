@@ -1,6 +1,8 @@
+HOTFIX is done
 aaa
 ccc
 ddd
 
-HOTFIX is done
 
+footer here
+end of footer
